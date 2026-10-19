@@ -1,2 +1,1 @@
 # usuarios con acceso (compra unica, sin vencimiento)
-Aplicaciones
